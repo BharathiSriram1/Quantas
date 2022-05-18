@@ -1,0 +1,5 @@
+com\qantas\core\filters\LoggingFilterTest.class
+com\qantas\core\schedulers\SimpleScheduledTaskTest.class
+com\qantas\core\servlets\SimpleServletTest.class
+com\qantas\core\listeners\SimpleResourceListenerTest.class
+com\qantas\core\models\HelloWorldModelTest.class

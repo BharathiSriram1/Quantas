@@ -1,0 +1,4 @@
+com\qantas\it\tests\HtmlUnitClient.class
+com\qantas\it\tests\CreatePageIT.class
+com\qantas\it\tests\GetPageIT.class
+com\qantas\it\tests\PublishPageValidationIT.class
